@@ -1,0 +1,52 @@
+Cmp-Mod V01 Created by CvPcb (2013-june-11)-stable date = Tue 28 Apr 2015 10:44:09 PM JST
+
+BeginCmp
+TimeStamp = /5538123A;
+Reference = J1;
+ValeurCmp = JACK_IN;
+IdModule  = jack_3.5_sj1-3513-smt;
+EndCmp
+
+BeginCmp
+TimeStamp = /553812AD;
+Reference = J2;
+ValeurCmp = JACK_OUT;
+IdModule  = jack_3.5_sj1-3513-smt;
+EndCmp
+
+BeginCmp
+TimeStamp = /553ABCED;
+Reference = P1;
+ValeurCmp = PWR_IN;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /553812DB;
+Reference = R1;
+ValeurCmp = 2K;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /553812CC;
+Reference = R2;
+ValeurCmp = 50K;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5538F1ED;
+Reference = R3;
+ValeurCmp = 2K;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /55381082;
+Reference = U1;
+ValeurCmp = OPAMP;
+IdModule  = DIP-8__300;
+EndCmp
+
+EndListe
